@@ -1,6 +1,7 @@
 const express= require("express");
-const Data= require("../models/Data.js");    
+const Data= require("../models/Data.js");
 
+// router
 const router= express.Router();
 
 router.get("/", async function(req, res){
