@@ -1,0 +1,15 @@
+.colorBox {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    border: solid 1px;
+}
+
+.property {
+    font-weight: 500;
+}
+
+.value {
+    font-weight: normal;
+}
